@@ -55,7 +55,7 @@ The processed files and results are saved in subdirectories within the selected 
 - Ensure all input files are properly formatted before running the script.
 - The script requires executable permissions. If needed, set them using:
 ```sh
-chmod +x script_name.sh
+chmod +x gui_tools_automation.sh
 ```
 - If an incorrect file is selected, the script will show an error and exit.
 
